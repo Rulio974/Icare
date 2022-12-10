@@ -1,39 +1,0 @@
-[1mbettercap v2.32.0[0m [2m(built for linux amd64 with go1.18)[0m [type '[1mhelp[0m' for a list of commands]
-
-autorun.js loaded
-
-wlx98ded0152314 (ch. 1) / [31m↑[0m 0 B / [32m↓[0m 0 B / 0 pkts
-
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:39] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mwifi[0m[0m using interface wlx98ded0152314 (98:de:d0:15:23:14)
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:39] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30mwifi[0m[0m could not set interface wlx98ded0152314 txpower to 30, 'Set Tx Power' requests not supported
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:39] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30mwifi[0m[0m error while activating handle: error while setting interface [1mwlx98ded0152314[0m in monitor mode: Cannot set rfmon for this handle, [1minterface might already be monitoring. retrying![0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:39] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mwifi[0m[0m started (min rssi: -200 dBm)
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:39] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mwifi[0m[0m channel hopper started.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.ap.new[0m] wifi access point [1mJUJU_EXT[0m[2m[33m (-51 dBm)[0m[0m detected as [32mb4:b0:24:49:02:e4[0m[2m[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.ap.new[0m] wifi access point [1mFreebox-35E582[0m[2m[33m (-69 dBm)[0m[0m detected as [32m8c:97:ea:88:6d:f0[0m[2m (Freebox Sas)[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.ap.new[0m] wifi access point [1m<hidden>[0m[2m[33m (-68 dBm)[0m[0m detected as [32m8e:97:ea:88:6d:f1[0m[2m[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.ap.new[0m] wifi access point [1mFreeWifi_secure[0m[2m[33m (-43 dBm)[0m[0m detected as [32me4:9e:12:d4:70:5d[0m[2m (Freebox Sas)[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.ap.new[0m] wifi access point [1m<hidden>[0m[2m[33m (-71 dBm)[0m[0m detected as [32m8e:97:ea:c9:7b:01[0m[2m[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.ap.new[0m] wifi access point [1mFreebox-35E582[0m[2m[33m (-71 dBm)[0m[0m detected as [32m8c:97:ea:c9:7b:00[0m[2m (Freebox Sas)[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.ap.new[0m] wifi access point [1mJUJU[0m[2m[33m (-38 dBm)[0m[0m detected as [32me4:9e:12:d4:70:5c[0m[2m (Freebox Sas)[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.client.new[0m] new station b6:b0:24:09:02:e4 detected for [1mJUJU[0m ([2me4:9e:12:d4:70:5c[0m)
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:41] [[32mwifi.client.new[0m] new station 6c:88:14:85:17:98 (Intel Corporate) detected for [1mJUJU_EXT[0m ([2mb4:b0:24:49:02:e4[0m)
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:42] [[32mwifi.ap.new[0m] wifi access point [1mALTICE-53000[0m[2m[33m (-91 dBm)[0m[0m detected as [32m20:da:22:d4:51:30[0m[2m (Huawei Technologies Co.,Ltd)[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:43] [[32mwifi.ap.new[0m] wifi access point [1m<hidden>[0m[2m[33m (-90 dBm)[0m[0m detected as [32mfa:8f:ca:68:90:fd[0m[2m[0m.
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:44] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30mwifi[0m[0m error while hopping to channel 14: iw: out=kernel reports: Channel is disabled
-command failed: Invalid argument (-22) err=exit status 234
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:45] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-86 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:45] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-84 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:45] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-86 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:45] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-90 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:45] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-87 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:45] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-91 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:46] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-88 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:46] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-87 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:47] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-87 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:47] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-86 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [00:05:47] [[32mwifi.client.probe[0m] station d4:53:83:05:b6:d5[2m (Murata Manufacturing Co., Ltd.)[0m is probing for SSID [1mDefaultSSID[0m[33m (-86 dBm)[0m
-[J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m [J[2K[43m[30m wlx98ded0152314 [0m [1m» [0m[0m^C
-Are you sure you want to quit this session? y/n [00:05:48] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30mwifi[0m[0m error while hopping to channel 14: iw: out=kernel reports: Channel is disabled
-command failed: Invalid argument (-22) err=exit status 234
